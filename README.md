@@ -6,8 +6,9 @@ This is a simple Command Line Interface (CLI) task tracker where users can:
 - List tasks
 - Delete tasks
 
-# Project url
-https://github.com/thirugnanam-g/TaskTracker
+## Project URL
+[https://github.com/thirugnanam-g/TaskTracker](https://github.com/thirugnanam-g/TaskTracker)
+
 
 
 ## Installation
