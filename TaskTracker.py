@@ -2,9 +2,6 @@
 The code defines a TaskTracker class with methods to add, update, delete, and list tasks, and a main function to interact with the TaskTracker.
 """
 from datetime import datetime
-from abc import ABC
-
-
 
 # id:
 # description:
@@ -12,8 +9,8 @@ from abc import ABC
 # createdAt:
 # updatedAt:
 
-class Task(ABC):
-
+class Task:
+    
     def __init__(self,id:int,description:str, status:str):
         self.__id = id
         self.__description = description
