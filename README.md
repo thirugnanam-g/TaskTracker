@@ -7,7 +7,11 @@ This is a simple Command Line Interface (CLI) task tracker where users can:
 - Delete tasks
 
 ## Project URL
-[https://github.com/thirugnanam-g/TaskTracker](https://github.com/thirugnanam-g/TaskTracker)
+[Task Tracker Project on Roadmap.sh](https://roadmap.sh/projects/task-tracker)
+
+## GitHub Repository
+[Task Tracker GitHub Repository](https://github.com/thirugnanam-g/TaskTracker)
+
 
 
 
